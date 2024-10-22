@@ -9,6 +9,7 @@
     <h1>Produk</h1>
     <a href="kucing.php"><button>Kucing</button></a>
     <a href="stok_produk.php"><button>Stok Produk</button></a>
+    <a href="viewProduk.php"><button>View Produk</button></a>
     <br>
     <br>
 </body>

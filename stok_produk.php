@@ -25,6 +25,7 @@
 <body>
     <a href="index.php"><button>Produk</button></a>
     <a href="kucing.php"><button>Kucing</button></a>
+    <a href="viewProduk.php"><button>View Produk</button></a>
     <br><br>
     <form method="POST" action="">
         <input type="text" name="saldoAwal" placeholder="Masukkan Saldo Awal (Rupiah)" required pattern="^\d+(\.\d{1,2})?$" title="Masukkan angka yang valid, gunakan titik untuk desimal">
