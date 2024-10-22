@@ -145,7 +145,7 @@
         if (isset($_SESSION['produk'][$index])) {
             $produk = $_SESSION['produk'][$index];
             if (isset($_POST['saldoAwal'])) {
-                $saldoAwal = floatval(str_replace('.', '', $_POST['saldoAwal'])); // Menghapus titik dan mengkonversi ke float
+                $saldoAwal = floatval(str_replace('.', '', $_POST['saldoAwal']));
                 $produk->saldo = $saldoAwal;
             }
             if (isset($_POST['stokInput'])) {
