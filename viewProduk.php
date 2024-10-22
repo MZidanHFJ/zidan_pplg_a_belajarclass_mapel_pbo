@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Stok Akhir Produk</title>
 </head>
 <body>
@@ -28,4 +29,8 @@
     
 </body>
     <a href="index.php"><button>Produk</button></a>
+    <a href="kucing.php"><button>Kucing</button></a>
+    <a href="stok_produk.php"><button>Stok Produk</button></a>
+    <br>
+    <br>
 </html>
